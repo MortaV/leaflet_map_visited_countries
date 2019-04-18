@@ -1,0 +1,15 @@
+"0","leaflet(data) %>% 
+    addTiles() %>%
+    addMarkers(icon = ~TravelIcons[group], 
+               label = ~htmlEscape(labels),
+               labelOptions = labelOptions(noHide = F, direction = ""top"",
+                                           style = list(
+                                               ""color"" = ""black"",
+                                               ""font-family"" = ""Montserrat"",
+                                               ""font-weight"" = ""bold"",
+                                               ""font-size"" = ""12px"",
+                                               ""border-color"" = ""black""
+                                           )))
+"
+"2","Assuming ""long"" and ""lat"" are longitude and latitude, respectively
+"

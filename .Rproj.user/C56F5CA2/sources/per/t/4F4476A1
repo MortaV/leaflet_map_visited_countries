@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1555590094633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "872585496",
+    "id" : "4F4476A1",
+    "lastKnownWriteTime" : 1555589886,
+    "last_content_update" : 1555589886,
+    "path" : "C:/Users/morta.vilkaite/Desktop/R stuff/Data Science/Course 9/Leaflet/Leaflet/leaflet.Rmd",
+    "project_path" : "leaflet.Rmd",
+    "properties" : {
+        "cursorPosition" : "4,16",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
